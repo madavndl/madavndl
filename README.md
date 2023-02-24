@@ -30,9 +30,3 @@
 </div>
 
 ##
-
-<div> 
- 
-  ![Snake animation](https://github.com/madavndl/madavndl/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
