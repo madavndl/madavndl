@@ -2,7 +2,6 @@
 - 🎓 Cursando Ciências da Computação na Universidade do Extremo Sul Catarinense - UNESC
 - 🔭 Atualmente estou trabalhando com front-end
 - 🌱 Estudando: JavaScript, TypeScript, React
-- 😄 Pronouns: ela/dela
 
 ##
 
