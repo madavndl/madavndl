@@ -1,9 +1,6 @@
-<img width=100% bottom=50px src="https://github.com/madavndl/madavndl/assets/113566563/ee328991-4217-48c8-88ad-dacb7f64800e"/>
-<br>
-<br>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monoespace&size=50&pause=1000&color=FFFFFF&random=false&width=665&height=170&lines=Hii!+My+name+is+Amanda;I'm+26+years+old;I'm+a+Software+Developer;I'm+from+Brazil" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monoespace&size=50&pause=1000&color=FFFFFF&random=false&width=665&height=170&lines=Hii!+Hello,+I'm+Amanda+Vanderlinde;I'm+26+years+old;I'm+from+Brazil" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
