@@ -1,6 +1,6 @@
 <div align="center">
    <h1>👋 Hello, I'm Amanda Vanderlinde</h1>
-   <h3>Desenvolvedora de Software | Apaixonada por Criatividade</h3>
+   <h3>Desenvolvedora de Software</h3>
 </div>
 
 <br>
