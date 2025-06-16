@@ -1,5 +1,5 @@
-<div align="center">
-   <# Olá, eu sou a Amanda! 👩‍💻✨
+<div align="left">
+   <h1>Olá, eu sou a Amanda! 👩‍💻✨</h1>
 
 Seja bem-vindo ao meu cantinho no GitHub!  
 Atualmente, estou em transição para a área de tecnologia, com um foco especial em JavaScript, React, Node.js e TypeScript. Além de programar, sou apaixonada por livros 📚, música (especialmente jazz, soul e rock) 🎶, e vinhos 🍷.
@@ -27,14 +27,13 @@ Se você acredita que o mundo precisa de pessoas que programam com propósito, v
 
 <br>
 
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/madavndl?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=cyan&dark=true) 
+<div align="left">
+   <img src="https://ssr-contributions-svg.vercel.app/_/madavndl?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=cyan&dark=true" alt="Contribuições" />
 </div>
 
-<h2 align="center">🌟 Habilidades Principais</h2>
+<h2 align="left">🌟 Habilidades Principais</h2>
 
-<p align="center">
+<p align="left">
     <img height="40" width="40" src="https://github.com/madavndl/madavndl/assets/113566563/d5303311-9820-4d9d-8667-b3c34805ffbf" alt="Ícone 1">
     <img height="40" width="40" src="https://github.com/madavndl/madavndl/assets/113566563/433869e8-e76e-4bad-8e76-1bac741a445a" alt="Ícone 2">
     <img height="40" width="40" src="https://github.com/madavndl/madavndl/assets/113566563/0ed68e11-2625-46a3-a840-57bf73f5a370" alt="Ícone 3">
@@ -46,11 +45,10 @@ Se você acredita que o mundo precisa de pessoas que programam com propósito, v
 </p>
 
 <br>
-<br>
 
-<h2 align="center">📚 Atualmente Estudando</h2>
+<h2 align="left">📚 Atualmente Estudando</h2>
 
-<p align="center">
+<p align="left">
     <img height="40" width="40" src="https://github.com/madavndl/madavndl/assets/113566563/3c31ad79-6f3b-4532-9ec6-1eebb061a55b" alt="Ícone 1">
     <img height="40" width="40" src="https://github.com/madavndl/madavndl/assets/113566563/5e0eb719-819f-49d9-89cd-3f7bceb5e151" alt="Ícone 2">
     <img height="40" width="40" src="https://github.com/madavndl/madavndl/assets/113566563/433869e8-e76e-4bad-8e76-1bac741a445a" alt="Ícone 3">
