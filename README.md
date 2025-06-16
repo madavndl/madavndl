@@ -3,6 +3,7 @@
 
 Seja bem-vindo ao meu cantinho no GitHub! 
 <br>
+<br>
 Atualmente, estou em transição para a área de tecnologia, com um foco especial em JavaScript, React, Node.js e TypeScript. Além de programar, sou apaixonada por livros 📚, música (especialmente jazz, soul e rock) 🎶, e vinhos 🍷.
 
 ## Sobre Mim
