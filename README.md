@@ -1,38 +1,29 @@
 <div align="center">
-   <h1>👋 Hello, I'm Amanda Vanderlinde</h1>
-   <h3>Desenvolvedora de Software</h3>
-</div>
+   <# Olá, eu sou a Amanda! 👩‍💻✨
 
-<br>
+Seja bem-vindo ao meu cantinho no GitHub!  
+Atualmente, estou em transição para a área de tecnologia, com um foco especial em JavaScript, React, Node.js e TypeScript. Além de programar, sou apaixonada por livros 📚, música (especialmente jazz, soul e rock) 🎶, e vinhos 🍷.
 
-### Sobre mim
-Olá! Sou Amanda Vanderlinde, desenvolvedora com foco em front-end e experiência em **TypeScript**, **React** e criação de interfaces intuitivas e funcionais. Gosto de enfrentar desafios e aprender continuamente no mundo do desenvolvimento. Meu objetivo é unir criatividade e tecnologia para criar soluções inovadoras que façam a diferença.
+## Sobre Mim
 
-<br>
+Minha jornada profissional começou no setor administrativo e de atendimento ao cliente, onde aprendi o valor de ouvir com atenção e agir com estratégia. Agora, estou aplicando essas habilidades no mundo da tecnologia, criando soluções digitais com lógica e criatividade.
 
-### 🔧 Habilidades Técnicas
-- **Linguagens:** JavaScript, TypeScript, Java  
-- **Frameworks:** Bootstrap, React, AngularJS  
-- **Banco de Dados:** PostgreSQL  
-- **Ferramentas:** Git, WordPress  
+## Vamos conversar!
 
-<br>
-
-### Sobre minhas Habilidades
-Sou uma desenvolvedora de software apaixonada por criar experiências de usuário incríveis e funcionais. Com experiência em linguagens como **JavaScript** e **TypeScript**, e familiaridade com frameworks como **React** e **AngularJS**, estou sempre em busca de aprimorar meus conhecimentos e contribuir para projetos desafiadores. Meu trabalho com ferramentas como **Git** e **WordPress** complementa minha formação, permitindo-me trabalhar de forma colaborativa e eficiente em diferentes ambientes de desenvolvimento.
-
-<br>
+Se você acredita que o mundo precisa de pessoas que programam com propósito, vamos trocar ideias. Estou sempre aberta a colaborações e novas experiências!
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [Amanda Vanderlinde](https://www.linkedin.com/in/amanda-vanderlinde-9447a6227/)  
-- **Instagram:** [amandavanderlinde](https://www.instagram.com/amandavanderlinde/)
+-🔗 **LinkedIn:** [Amanda Vanderlinde](https://www.linkedin.com/in/amanda-vanderlinde-9447a6227/)  
+-🔗 **Instagram:** [amandavanderlinde](https://www.instagram.com/amandavanderlinde/)
   
 <br>
 
-### ✨ Curiosidades
-- Sempre em busca de desafios e aprendizado constante.
-- Sou apaixonada por livros de fantasia e ficção científica.
-- Acredito que a tecnologia pode ser uma ponte para unir inovação e criatividade.
+### ✨ **Curiosidades**
+- Sou uma **exploradora digital** que adora aprender novas linguagens e ferramentas, sempre com um toque criativo.  
+- **Livros de fantasia e ficção científica** são minha paixão — me ajudam a expandir horizontes e a pensar de forma inovadora.  
+- Acredito que **tecnologia é mais do que código**, ela tem o poder de conectar pessoas, transformar ideias e criar experiências incríveis.  
+- **Jazz, soul e rock** não são apenas meus estilos de música favoritos, mas também fontes de inspiração e energia para meu trabalho.  
+- Cada projeto que enfrento é uma nova **aventura**, e estou sempre em busca de transformar desafios em soluções que impactem positivamente o mundo.
 
 <br>
 
