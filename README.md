@@ -1,7 +1,8 @@
 <div align="left">
-   <h1>Olá, eu sou a Amanda! 👩‍💻✨</h1>
+   <h1>Olá, eu sou a Amanda Vanderlinde! 👩‍💻✨</h1>
 
-Seja bem-vindo ao meu cantinho no GitHub!  
+Seja bem-vindo ao meu cantinho no GitHub! 
+<br>
 Atualmente, estou em transição para a área de tecnologia, com um foco especial em JavaScript, React, Node.js e TypeScript. Além de programar, sou apaixonada por livros 📚, música (especialmente jazz, soul e rock) 🎶, e vinhos 🍷.
 
 ## Sobre Mim
@@ -10,7 +11,7 @@ Minha jornada profissional começou no setor administrativo e de atendimento ao 
 
 ## Vamos conversar!
 
-Se você acredita que o mundo precisa de pessoas que programam com propósito, vamos trocar ideias. Estou sempre aberta a colaborações e novas experiências!
+Se você acredita que o mundo precisa de pessoas que programam com propósito, vamos trocar ideias. Estou sempre aberta a colaborações e novas experiências! 🤝💡🌍✨
 
 ### 📫 Como me encontrar
 -🔗 **LinkedIn:** [Amanda Vanderlinde](https://www.linkedin.com/in/amanda-vanderlinde-9447a6227/)  
